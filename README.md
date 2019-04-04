@@ -2,4 +2,4 @@
 
 Android app where you can add and remove Mr. Potatohead's body parts!
 
-![Screenshot app](/doc/Screenshot 2019-04-04 at 18.26.23.png)
+![Screenshot app](https://github.com/Wiesje/mrpotatohead/blob/master/doc/Screenshot%202019-04-04%20at%2018.26.23.png)
